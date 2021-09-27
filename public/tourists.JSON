@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Cox Bazar",
+      "country": "Bangladesh",
+      "revenue": 10000000,
+      "division": "Chittagong",
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Cox%E2%80%99s-Bazar-scaled.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sajek Vally",
+      "country": "Bangladesh",
+      "revenue": 1000000,
+      "division": "Chittagong",
+      "img": " https://thefinancialexpress.com.bd/uploads/1623685867.jpg "
+    },
+    {
+      "id": 3,
+      "name": "The Sundarbans",
+      "country": "Bangladesh",
+      "division": "Khulna",
+      "revenue": 10000000,
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/The-Sundarbans.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Srimangal",
+      "country": "Bangladesh",
+      "division": "Sylhet",
+      "revenue": 100000,
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Srimangal.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bandarban",
+      "country": "Bangladesh",
+      "division": "",
+      "revenue": 100000,
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Bandarban.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Saint Martin",
+      "country": "Bangladesh",
+      "division": "Chittagong",
+      "revenue": 1000000,
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Saint-Martin.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Paharpur",
+      "country": "Bangladesh",
+      "division": "Bagura",
+      "revenue": 10000,
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Somapura-Mahavihara.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Kuakata",
+      "country": "Bangladesh",
+      "division": "Patuakhali",
+      "revenue": 100000,
+      "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Kuakata.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rangamati",
+      "country": "Bangladesh",
+      "dicision": "Chittagong",
+      "revenue": 100000,
+      "img": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image007.jpg"
+    }
+  ]

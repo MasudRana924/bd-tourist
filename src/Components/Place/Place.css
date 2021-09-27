@@ -1,0 +1,25 @@
+
+.btn{
+    width: 200px;
+    height: 36px;
+    border:1px solid lightslategray;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-bottom: 15px; 
+}
+.icon{
+    font-size: 20px;
+    color:rgba(0, 0, 255, 0.733);
+
+}
+.insta-icon{
+    font-size: 20px;
+    color:darkgoldenrod; 
+    margin-left: 15px; 
+}
+.youtube-icon{
+    font-size: 20px;
+    color:red;
+    margin-left: 15px; 
+}
