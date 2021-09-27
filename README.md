@@ -11,4 +11,8 @@ https://bd-tourist-app-assignment8.netlify.app/
 JS,
 HTML,
 CSS
+# How it works
+basically its a normal wensite to know about all tourist place of Bangladesh ,
+we can how much money government got as a revenue from all of this places , 
+when we click show details button then will show details 
 
