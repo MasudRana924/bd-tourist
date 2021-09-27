@@ -11,6 +11,7 @@
 .icon{
     font-size: 20px;
     color:rgba(0, 0, 255, 0.733);
+  
 
 }
 .insta-icon{
@@ -22,4 +23,7 @@
     font-size: 20px;
     color:red;
  
+}
+.revenue{
+    color:maroon;
 }

@@ -35,13 +35,13 @@ const Places = () => {
 
             <div className="row  bg-dark  pt-5 pb-5 ">
                 <div className="col-md-4 col-sm-12">
-                    <a className=" a-link pe-3 " href="">Home</a>
-                    <a className=" a-link pe-3" href="">About US</a>
-                    <a className=" a-link" href="">Contact US</a>
+                    <a className=" a-link pe-3 " href="./">Home</a>
+                    <a className=" a-link pe-3" href="./">About US</a>
+                    <a className=" a-link" href="./">Contact US</a>
 
                 </div>
                 <div className=" col-md-6 col-sm-6 input-field">
-                    <input onChange={handleSearch} class="form-control " type="search" placeholder=" search a place here" />
+                    <input onChange={handleSearch} className="form-control " type="search" placeholder=" search a place here" />
                 </div>
             </div>
 
@@ -64,7 +64,7 @@ const Places = () => {
                     </div>
                 </div>
 
-                <div className="col-md-3 col-sm-12 details-container">
+                <div className="col-md-3 col-sm-10 details-container">
                     <h2 className="text-center text">Details</h2>
                     <Details
                         key={displayPlaces.id}
