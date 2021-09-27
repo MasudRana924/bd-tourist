@@ -3,10 +3,19 @@
     font-size: 20px;
     color:gray;
 }
-.input-field input{
-    
-   
-}
 .text{
     color:gray;
+}
+
+@media screen and (max-width: 531px) {
+    .places { display: flex; flex-flow: column; }
+    .place-container{
+        order: 2;
+    }
+    .details-container{
+        order:1;
+        background-color: rgba(3, 100, 3, 0.479);
+        
+    }
+    
 }

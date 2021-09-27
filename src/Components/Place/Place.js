@@ -11,7 +11,7 @@ const place = (props) => {
   
     
     return (
-        <div className="col-md-4 mb-3">
+        <div className="col-md-4 col-sm-10 mb-3 ">
             <div className="card  mb-3 h-100">
                 <img src={img} alt="" className="img-fluid " />
                 <div className="card-body">
@@ -20,8 +20,8 @@ const place = (props) => {
                     <p> Country : <small>{country}</small></p>
                     <p>Revenue: ${revenue}</p>
                     <FontAwesomeIcon icon={faFacebookF} className="icon "/> 
-                    <FontAwesomeIcon icon={faInstagram} className="insta-icon "/> 
-                    <FontAwesomeIcon icon={faYoutube} className="youtube-icon"/> 
+                    <FontAwesomeIcon icon={faInstagram} className="insta-icon ms-3"/> 
+                    <FontAwesomeIcon icon={faYoutube} className="youtube-icon ms-3"/> 
                     <br />
                   
                     <button className="btn btn-secondary mt-3"
